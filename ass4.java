@@ -1,4 +1,5 @@
 //q1
+//____________________________
 //q1 client
 import java.net.*;
 import java.io.*;
@@ -15,7 +16,7 @@ class Myclient
 		s.close();	
 	}
 }
-//q2 server
+//q1 server
 import java.net.*;
 import java.io.*;
 
@@ -33,6 +34,7 @@ class Myserver
 	}	
 }
 //q2
+//________________________________________
 //q2 client
 import java.net.*;
 import java.io.*;
