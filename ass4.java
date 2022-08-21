@@ -1,5 +1,3 @@
-//q1
-//____________________________
 //q1 client
 import java.net.*;
 import java.io.*;
@@ -33,7 +31,6 @@ class Myserver
 
 	}	
 }
-//q2
 //________________________________________
 //q2 client
 import java.net.*;
